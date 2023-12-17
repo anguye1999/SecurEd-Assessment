@@ -9,7 +9,8 @@ I graduated from Towson University back in spring 2021 with a Applied Mathematic
 
 # Interests
 Some of my interests are:
-+Playing the piano 
-+Videos games (been meaning to play Lethal Company and Baldurs Gate) 
-H+iking 
-+Spending time with friends
++ Playing the piano 
++ Videos games (been meaning to play Lethal Company and Baldurs Gate) 
++ Hiking 
++ Spending time with friends
++ Messing with my girlfriend's rabbit 
