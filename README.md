@@ -7,4 +7,9 @@ My name is Andy Nguyen and this is my attempt at completing the SecurEd Technica
 # About Me
 I graduated from Towson University back in spring 2021 with a Applied Mathematics major and I am back again as a first (now second) semester graduate student at Towson University studying Computer Science with a concentration in Software Engineering. I was a Securities Analyst after graduation and didn't find the job to be peaking my interests and computer science was something I was curious about during undergraduate, but doubted if I was good enough (good ole imposter syndrome). 
 
-Some of my interests are playing the piano, videos games (been meaning to play Lethal Company and Baldurs Gate), hiking, and spending time with friends. I was 
+# Interests
+Some of my interests are:
++Playing the piano 
++Videos games (been meaning to play Lethal Company and Baldurs Gate) 
+H+iking 
++Spending time with friends
